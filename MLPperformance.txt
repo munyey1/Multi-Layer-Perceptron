@@ -1,0 +1,113 @@
+Hidden nodes: 1,Epochs: 1000, Training error: 0.08474938164804467, Validation error: 0.07804543845751397, Test error: 0.13356603943122639
+Hidden nodes: 1,Epochs: 2000, Training error: 0.07630896955082635, Validation error: 0.07386023231751862, Test error: 0.09801642175918253
+Hidden nodes: 2,Epochs: 1000, Training error: 0.023678185129850225, Validation error: 0.023485513997093116, Test error: 0.03945160967154344
+Hidden nodes: 2,Epochs: 2000, Training error: 0.020359970001064303, Validation error: 0.023024371300393004, Test error: 0.024331921704264358
+Hidden nodes: 2,Epochs: 2000, Training error: 0.020595119467804783, Validation error: 0.020277826118153753, Test error: 0.049062709576049836
+Hidden nodes: 1,Epochs: 1000, Training error: 0.0813630484169639, Validation error: 0.08109025645174714, Test error: 0.08879515726571456
+Hidden nodes: 1,Epochs: 2000, Training error: 0.076371554368135, Validation error: 0.08040136614048461, Test error: 0.08723948349364513
+Hidden nodes: 3,Epochs: 1000, Training error: 0.020402732370610997, Validation error: 0.025934385954568106, Test error: 0.025158305249371953
+Hidden nodes: 3,Epochs: 2000, Training error: 0.01980082780368435, Validation error: 0.021863276037187546, Test error: 0.030506563387832423
+Hidden nodes: 4,Epochs: 1000, Training error: 0.020143605960909673, Validation error: 0.022213494717103512, Test error: 0.04486160534135667
+Hidden nodes: 4,Epochs: 2000, Training error: 0.020457799682013743, Validation error: 0.0193091673135758, Test error: 0.028133652973310087
+Hidden nodes: 5,Epochs: 1000, Training error: 0.020430357179622948, Validation error: 0.02181227903818649, Test error: 0.025083584028221865
+
+Hidden nodes: 2,Epochs: 1000, Training error: 0.021984034001694148, Validation error: 0.021432918795575347, Test error: 0.026178110938516602
+Hidden nodes: 3,Epochs: 1000, Training error: 0.020264892366543722, Validation error: 0.02277182779924065, Test error: 0.02972622784482364
+Hidden nodes: 4,Epochs: 1000, Training error: 0.02196542624091716, Validation error: 0.024038540604553058, Test error: 0.06072866457971999
+Hidden nodes: 5,Epochs: 1000, Training error: 0.02138135369406609, Validation error: 0.024443339895934432, Test error: 0.04138878216419247
+Hidden nodes: 6,Epochs: 1000, Training error: 0.019653475449467894, Validation error: 0.022698500864370013, Test error: 0.0525793732174577
+Hidden nodes: 7,Epochs: 1000, Training error: 0.020964115739747175, Validation error: 0.022014105788180804, Test error: 0.0486459906183223
+Hidden nodes: 8,Epochs: 1000, Training error: 0.0203034150933374, Validation error: 0.022914520825786357, Test error: 0.024852184599785245
+Hidden nodes: 9,Epochs: 1000, Training error: 0.021012390692584152, Validation error: 0.02306954070756319, Test error: 0.05475066417214585
+Hidden nodes: 10,Epochs: 1000, Training error: 0.02108170126010668, Validation error: 0.023688026483868217, Test error: 0.0257144951467408
+
+Hidden nodes: 2,Epochs: 2000, Training error: 0.020107493718139816, Validation error: 0.022026993370919474,Test error: 0.04410116027385038
+Hidden nodes: 3,Epochs: 2000, Training error: 0.019279169164215116, Validation error: 0.020162539949334687, Test error: 0.025874084738857252
+Hidden nodes: 4,Epochs: 2000, Training error: 0.020198767654711725, Validation error: 0.0217874599670056, Test error: 0.05633861904291502
+Hidden nodes: 5,Epochs: 2000, Training error: 0.01950148798282262, Validation error: 0.023735275304213002, Test error: 0.08364744024389344
+Hidden nodes: 6,Epochs: 2000, Training error: 0.0194236780015657, Validation error: 0.02183684951889539, Test error: 0.032961399913564095
+Hidden nodes: 7,Epochs: 2000, Training error: 0.019569168599220678, Validation error: 0.018978043975163537, Test error: 0.04107377201330964
+Hidden nodes: 8,Epochs: 2000, Training error: 0.020264232601607153, Validation error: 0.022303769079690398, Test error: 0.054922216234774134
+Hidden nodes: 9,Epochs: 2000, Training error: 0.020095066429149048, Validation error: 0.023797610520064825, Test error: 0.029237931739134936
+Hidden nodes: 10,Epochs: 2000, Training error: 0.019137782187121522, Validation error: 0.02141935292106326, Test error: 0.030767935066855875
+Hidden nodes: 7,Epochs: 2000, Training error: 0.01949455004913559, Validation error: 0.022253405911673914,Test error: 0.024396839198468457
+
+Hidden nodes: 2,Epochs: 1000, Training error: 0.02067639666369831, Validation error: 0.020616631487749806, Test error: 0.032861790071903284
+Hidden nodes: 3,Epochs: 1000, Training error: 0.021092625988477182, Validation error: 0.021045956021475198, Test error: 0.033484607107001206
+Hidden nodes: 4,Epochs: 1000, Training error: 0.021936501455192003, Validation error: 0.02198574135997177, Test error: 0.03502575688022833
+Hidden nodes: 5,Epochs: 1000, Training error: 0.020569846777202704, Validation error: 0.020437236950549754, Test error: 0.032561632276161066
+Hidden nodes: 6,Epochs: 1000, Training error: 0.02054105050268493, Validation error: 0.020479838170083437, Test error: 0.03266011729389726
+Hidden nodes: 7,Epochs: 1000, Training error: 0.021012622205864938, Validation error: 0.021437734061181886, Test error: 0.03489510223409631
+Hidden nodes: 8,Epochs: 1000, Training error: 0.021557169101740825, Validation error: 0.02192195025433776, Test error: 0.03399554186842808
+Hidden nodes: 9,Epochs: 1000, Training error: 0.021039359156555495, Validation error: 0.021053163836165196, Test error: 0.03596358532298373
+Hidden nodes: 10,Epochs: 1000, Training error: 0.020568698230900486, Validation error: 0.020552012719513617, Test error: 0.03300742172918523
+
+Hidden nodes: 2,Epochs: 2000, Training error: 0.020612131109600373, Validation error: 0.02060965493019917, Test error: 0.03323358688532845
+Hidden nodes: 3,Epochs: 2000, Training error: 0.019198507182242884, Validation error: 0.019131674774316067, Test error: 0.03711958149827541
+Hidden nodes: 4,Epochs: 2000, Training error: 0.020407179638415093, Validation error: 0.02042172624035181, Test error: 0.03278498027232651
+Hidden nodes: 5,Epochs: 2000, Training error: 0.019194984460220988, Validation error: 0.01947021379045874, Test error: 0.035845658769728436
+Hidden nodes: 6,Epochs: 2000, Training error: 0.01969910528037166, Validation error: 0.020146185723070822, Test error: 0.037294602286753915
+Hidden nodes: 7,Epochs: 2000, Training error: 0.019773306524609992, Validation error: 0.01964830279442441, Test error: 0.03322711259980079
+Hidden nodes: 8,Epochs: 2000, Training error: 0.01911913568075624, Validation error: 0.019645204011470588, Test error: 0.03626017021235837
+Hidden nodes: 9,Epochs: 2000, Training error: 0.02060409498656188, Validation error: 0.02105137115956849, Test error: 0.03717170313965601
+Hidden nodes: 10,Epochs: 2000, Training error: 0.020782795834376352, Validation error: 0.021243212995770144, Test error: 0.03326225595270527
+
+Hidden nodes: 3,Epochs: 2000, Training error: 0.01997387694535329, Validation error: 0.022018381544235847,Test error: 0.05558204303890377
+Hidden nodes: 3,Epochs: 2000, Training error: 0.019262955210071493, Validation error: 0.019674433867155262,Test error: 0.06334209542920373
+Hidden nodes: 3,Epochs: 2000, Training error: 0.019740834706400527, Validation error: 0.019183808004330137,Test error: 0.023262139903625287
+Hidden nodes: 3,Epochs: 2000, Training error: 0.019896475018511713, Validation error: 0.021696096419934717,Test error: 0.056496036640076776
+Hidden nodes: 3,Epochs: 2000, Training error: 0.020815598233721398, Validation error: 0.023100001586059137,Test error: 0.027343178977286508
+
+Hidden nodes: 3,Epochs: 2000, Training error: 0.02054653612178811, Validation error: 0.022512470253872707,Test error: 0.024069977122537074
+
+Hidden nodes: 3,Epochs: 2000, Training error: 0.02012606848626232, Validation error: 0.02196220750762282,Test error: 0.04485373736084882
+Hidden nodes: 3,Epochs: 1000, Training error: 0.020746296189337682, Validation error: 0.02240992399554762,Test error: 0.055897947465898976
+Hidden nodes: 3,Epochs: 1000, Training error: 0.02022925179478227, Validation error: 0.02042625629177015,Test error: 0.03343002762644484
+Hidden nodes: 3,Epochs: 1000, Training error: 0.0220573861559107, Validation error: 0.022290672365464323,Test error: 0.047680399177153936
+Hidden nodes: 3,Epochs: 1000, Training error: 0.020388741169918997, Validation error: 0.024206323637827067,Test error: 0.05262387399268667
+Hidden nodes: 2,Epochs: 1000, Training error: 0.02361359309674757, Validation error: 0.02676306823006776,Test error: 0.03283364978150969
+Hidden nodes: 3,Epochs: 2000, Training error: 0.01986105834136446, Validation error: 0.019966607134744713,Test error: 0.03650388763996295
+Hidden nodes: 1,Epochs: 1000, Training error: 0.09044637052394043, Validation error: 0.08943578065303204,Test error: 0.07455674992892633
+Hidden nodes: 3,Epochs: 2000, Training error: 0.01984656074157691, Validation error: 0.022693083761951234,Test error: 0.02532424658689997
+
+Hidden nodes: 2,Epochs: 1000, Training error: 0.019290769113958838, Validation error: 0.022363272294224152, Test error: 0.024817258159750756
+Hidden nodes: 3,Epochs: 1000, Training error: 0.02012600512650345, Validation error: 0.023378933676824247, Test error: 0.025755830916383633
+Hidden nodes: 4,Epochs: 1000, Training error: 0.020196560351464426, Validation error: 0.02392604370527407, Test error: 0.025696632150796418
+Hidden nodes: 5,Epochs: 1000, Training error: 0.019927153872179984, Validation error: 0.02321432927544295, Test error: 0.02634253891220985
+Hidden nodes: 6,Epochs: 1000, Training error: 0.020577921028669382, Validation error: 0.023775521846933295, Test error: 0.02653765571695179
+Hidden nodes: 7,Epochs: 1000, Training error: 0.019817735172124696, Validation error: 0.023279379014677866, Test error: 0.02479850051615339
+Hidden nodes: 8,Epochs: 1000, Training error: 0.02062336764885912, Validation error: 0.023912455873503193, Test error: 0.02685165810699144
+Hidden nodes: 9,Epochs: 1000, Training error: 0.020543704403218604, Validation error: 0.023533870198769145, Test error: 0.026437454364925225
+Hidden nodes: 10,Epochs: 1000, Training error: 0.020278111973686657, Validation error: 0.023256744235742473, Test error: 0.026140402495870987
+Hidden nodes: 2,Epochs: 1000, Training error: 0.022644537178067612, Validation error: 0.026615121451448814, Test error: 0.029939530123791146
+
+Hidden nodes: 2,Epochs: 1000, Training error: 0.019626347369400388, Validation error: 0.02315190583270204, Test error: 0.02519457607370658
+Hidden nodes: 3,Epochs: 1000, Training error: 0.01962951871615776, Validation error: 0.023026649458214556, Test error: 0.0251172883743036
+Hidden nodes: 4,Epochs: 1000, Training error: 0.019650045578197137, Validation error: 0.023239064605740566, Test error: 0.025389245380336586
+Hidden nodes: 5,Epochs: 1000, Training error: 0.019088872269715028, Validation error: 0.022270394490099737, Test error: 0.024697516978598465
+Hidden nodes: 6,Epochs: 1000, Training error: 0.01985010770313995, Validation error: 0.023464904047114394, Test error: 0.02535644715845205
+Hidden nodes: 7,Epochs: 1000, Training error: 0.01942538099237642, Validation error: 0.02277409360075773, Test error: 0.024623714688510354
+Hidden nodes: 8,Epochs: 1000, Training error: 0.019556499297086204, Validation error: 0.0233212961119892, Test error: 0.02511856843488973
+Hidden nodes: 9,Epochs: 1000, Training error: 0.01962368418293255, Validation error: 0.02284105982274585, Test error: 0.02474986804019467
+Hidden nodes: 10,Epochs: 1000, Training error: 0.019162817496676112, Validation error: 0.022523573673835007, Test error: 0.024774641705120858
+
+Hidden nodes: 3,Epochs: 1000, Training error: 0.019832833206176185, Validation error: 0.02364251563578319,Test error: 0.02553122549747965
+Hidden nodes: 3,Epochs: 1000, Training error: 0.020519234203365176, Validation error: 0.02356757038573409,Test error: 0.025938622558796327
+Hidden nodes: 3,Epochs: 1000, Training error: 0.01925277756884535, Validation error: 0.02251153381215545,Test error: 0.024808985759268917
+Hidden nodes: 3,Epochs: 2000, Training error: 0.019242803553913588, Validation error: 0.02244071033799957,Test error: 0.024710669826782383
+Hidden nodes: 3,Epochs: 2000, Training error: 0.019216978199083135, Validation error: 0.02258898981832365,Test error: 0.024831779342816683
+Hidden nodes: 3,Epochs: 2000, Training error: 0.01871640614651665, Validation error: 0.0218097101281539,Test error: 0.0245010721857487
+
+Hidden nodes: 3,Epochs: 1000, Training error: 0.019596528644126178, Validation error: 0.02292095512432723, Test error: 0.02508806468921931
+Hidden nodes: 4,Epochs: 1000, Training error: 0.02060303009642116, Validation error: 0.02389843443802057, Test error: 0.02615041430193401
+Hidden nodes: 5,Epochs: 1000, Training error: 0.019525056202662247, Validation error: 0.02340127562624194, Test error: 0.025452153347643967
+Hidden nodes: 6,Epochs: 1000, Training error: 0.01937832883927926, Validation error: 0.023149871077541552, Test error: 0.024987115742988043
+Hidden nodes: 7,Epochs: 1000, Training error: 0.019529751352454622, Validation error: 0.022920454273229512, Test error: 0.025056414192465598
+Hidden nodes: 8,Epochs: 1000, Training error: 0.019477026428404962, Validation error: 0.022880349704704688, Test error: 0.024283810359673936
+Hidden nodes: 9,Epochs: 1000, Training error: 0.019247463848420496, Validation error: 0.022448112926761993, Test error: 0.024662159620339956
+Hidden nodes: 10,Epochs: 1000, Training error: 0.020251029968606834, Validation error: 0.02328258567508992, Test error: 0.026077534114978054
+Hidden nodes: 3,Epochs: 2000, Training error: 0.020904434227865365, Validation error: 0.022941292279661216,Test error: 0.06888231307905981
+Hidden nodes: 3,Epochs: 1000, Training error: 0.021180161076431676, Validation error: 0.021558347098488077,Test error: 0.024668655999155055
+Hidden nodes: 3,Epochs: 1000, Training error: 0.021273159007971075, Validation error: 0.024070638854761687,Test error: 0.047298841541409904
+Hidden nodes: 3,Epochs: 1000, Training error: 0.021484102602767598, Validation error: 0.02325041811687381,Test error: 0.036012386269873305
+Hidden nodes: 3,Epochs: 1000, Training error: 0.021982972474687144, Validation error: 0.021400016320972708,Test error: 0.02775013110752828
